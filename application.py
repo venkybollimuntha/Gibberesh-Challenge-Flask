@@ -10,8 +10,8 @@ import random
 
 # You must configure these 3 values from Google APIs console
 # https://code.google.com/apis/console
-GOOGLE_CLIENT_ID = '693805920931-m7d69j7eti5m8mmvv4f49ogkkdmd8l01.apps.googleusercontent.com'
-GOOGLE_CLIENT_SECRET = 'G5V1ZIxe8nha4o4SrnAwZYWA'
+GOOGLE_CLIENT_ID = 'YOUR-GOOGLE-CLIENT-ID'
+GOOGLE_CLIENT_SECRET = 'YOUR-GOOGLE-SECRET'
 REDIRECT_URI = '/authorized'  # one of the Redirect URIs from Google APIs console
 BASE_URL = "http://localhost:5000/"
 
